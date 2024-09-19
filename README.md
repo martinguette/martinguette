@@ -10,11 +10,11 @@
 
 - 💼 I’m currently looking for a job as a **Frontend Developer** or **Web Designer**
   
-- 👨‍💻 All of my projects are available at [martinguetteportfolio.netlify.app](martinguetteportfolio.netlify.app)
+- 👨‍💻 Check my portfolio  [here](https://martinguetteportfolio.netlify.app/)
 
 - 📫 How to reach me **marguepardo@gmail.com**
 
-- 📄 My Resume [https://shorturl.at/b5qMH](https://shorturl.at/b5qMH)
+- 📄 Check my Resume [here](https://shorturl.at/b5qMH)
 
 - 🌱 I’m currently learning **Backend, UX-UI**
 
