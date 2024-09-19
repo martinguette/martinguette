@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Guette</h1>
 <h3 align="center">👨‍💻 Systems Engineer & Software Developer from Colombia 🇨🇴 | Merging design 🎨 and development 💻 to create solutions that combine aesthetics ✨ and functionality ⚙️.</h3>
 <br/> <br/> 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"
+<img align="right" alt="Coding" style="margin: 0 10px;" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinguette&label=Profile%20views&color=0e75b6&style=flat" alt="martinguette" /> </p>
 
